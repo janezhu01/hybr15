@@ -39,9 +39,7 @@
        "assistedservicepromotionaddon",
        "pcmbackofficesamplesaddon",
        "personalizationsearchsamplesaddon",
-       "datahubadapter",
        "secureportaladdon",
-       "datahubbackoffice",
        "sapcoreaddon",
        "sapcoreconfigurationbackoffice",
        "sapmodelbackoffice",
@@ -116,10 +114,6 @@
                     "contextPath": "/backoffice"
                 },
                 {
-                    "name": "datahubadapter",
-                    "contextPath": "/datahubadapter"
-                },
-                {
                     "name": "oauth2",
                     "contextPath": "/authorizationserver"
                 }
@@ -185,10 +179,6 @@
                 {
                     "name": "mediaweb",
                     "contextPath": "/medias"
-                },
-                {
-                    "name": "datahubadapter",
-                    "contextPath": "/datahubadapter"
                 },
                 {
                     "name": "oauth2",
